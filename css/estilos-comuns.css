@@ -1,0 +1,20 @@
+body {
+  background-image: url(../imagens/fundo.png);
+  margin: 10% 10% 10% 10%;
+}
+
+h1 {
+  font-family: "Times New Roman", sans-serif;
+  color: limegreen;
+  font-size: 28px; 
+  margin-bottom: 30px; 
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  text-align: justify;
+}
+
+em {
+  font-family: "Arial", sans-serif;
+}

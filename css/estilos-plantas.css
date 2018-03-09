@@ -1,0 +1,21 @@
+h2  {
+  font-family: "Times New Roman", sans-serif;
+  color: limegreen;
+  font-size: 24px;
+}
+
+blockquote {
+  font-family: "Arial", sans-serif;
+  text-align: justify;
+  font-style:italic;
+}
+
+q {
+  font-family: "Arial", sans-serif;
+  font-style:italic;
+}
+
+img {
+  border: 4px solid limegreen;
+}
+
